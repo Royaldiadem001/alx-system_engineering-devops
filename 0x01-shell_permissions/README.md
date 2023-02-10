@@ -1,1 +1,1 @@
-Betty
+mirror permissions
